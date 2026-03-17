@@ -30,7 +30,7 @@ Exploratory Data Analysis was performed to understand the structure and distribu
 * <img width="514" height="444" alt="Screenshot 2026-03-17 at 12 35 39 PM" src="https://github.com/user-attachments/assets/4d5419a8-ab34-4e18-abf3-eb44be10f09f" />
 
 * Visualized relationship between Feature1 and Feature2 using a scatter plot
-* <img width="544" height="667" alt="Screenshot 2026-03-17 at 12 38 27 PM" src="https://github.com/user-attachments/assets/8b96ff97-047c-43bc-8b23-0e0913ee0599" />
+*
 
 
 ## Data Preprocessing
@@ -39,6 +39,7 @@ Before building the model, the dataset was prepared using the following steps:
 
 * Converted target variable from categorical values (Yes/No) to numerical values (1/0)
 * Checked class distribution for imbalance
+*  <img width="544" height="667" alt="Screenshot 2026-03-17 at 12 38 27 PM" src="https://github.com/user-attachments/assets/8b96ff97-047c-43bc-8b23-0e0913ee0599" />
 * 
 * Split the dataset into training and testing sets
 
